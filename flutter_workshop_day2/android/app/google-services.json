@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280344852542",
+    "project_id": "flutter-workshop-day2",
+    "storage_bucket": "flutter-workshop-day2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280344852542:android:e7fa8e348164926973f96f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_workshop_day2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280344852542-sc6vnb6l0q17duglmk5sl6cm51ua33tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWlnJzmvKe09VtKUuYFPWJ25IxG9Z4UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280344852542-sc6vnb6l0q17duglmk5sl6cm51ua33tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
